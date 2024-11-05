@@ -1,1 +1,4 @@
 ejemplos de comandos de git
+
+/** git add . se usa para agregar todos los archivo a un commit **/
+git add .
