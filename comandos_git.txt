@@ -16,6 +16,19 @@ ejemplos de comandos de git
 
 /** git remote add nombre_remote remoto 
 
-
 /** cambios de Carlos
 /** cambios de Angel
+
+
+/** flujo con repositorios remotos
+
+    *   git status
+    *   git add
+    *   git commit -m ''
+    *   git pull
+        *   correccion de conflictos en caso de error
+            *   git add
+            *   git commit -m ''
+    *   git push
+
+ultima version
