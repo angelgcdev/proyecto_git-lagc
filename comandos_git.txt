@@ -13,3 +13,5 @@ ejemplos de comandos de git
 /** git checkout < nombre de rama > sirve para moverse entre ramas
 
 /** git branch  -- sirve para listar la ramas de git
+
+/** git remote add nombre_remote remoto 
