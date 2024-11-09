@@ -1,0 +1,17 @@
+================== ESTA ES LA RAMA 1 ==================
+================== ESTA ES LA RAMA 2 ==================
+ejemplos de comandos de git
+
+/** git init    --sirve para inicializar un nuevo repositorio
+
+/** git add . se usa para agregar todos los archivo a un commit **/
+
+/** git add < nombre de archivo >  agrega un archivo especifico
+
+/** git checkout < seguido del hash de un commit > sirve para volver a un commit especifico>
+
+/** git checkout < nombre de rama > sirve para moverse entre ramas
+
+/** git branch  -- sirve para listar la ramas de git
+
+/** git remote add nombre_remote remoto 
