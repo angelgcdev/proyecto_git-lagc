@@ -22,7 +22,6 @@ ejemplos de comandos de git
 
 /** flujo con repositorios remotos
 
-    *   git status
     *   git add
     *   git commit -m ''
     *   git pull
