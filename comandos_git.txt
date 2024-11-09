@@ -15,3 +15,5 @@ ejemplos de comandos de git
 /** git branch  -- sirve para listar la ramas de git
 
 /** git remote add nombre_remote remoto 
+
+/** cambios de Angel
