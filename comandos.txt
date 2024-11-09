@@ -1,3 +1,7 @@
 Comandos git
 
-hola estos son mis apuntes de el curso
+Eliminar repositorio remoto:
+
+  git remote remove <nombre_repositorio_remoto>
+Crear rama e ir a la rama
+  git checkout -b rama1
