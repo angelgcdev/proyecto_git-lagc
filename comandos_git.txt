@@ -19,3 +19,14 @@ ejemplos de comandos de git
 
 /** cambios de Carlos
 /** cambios de Angel
+
+
+/** flujo con repositorios remotos
+
+    *   git add
+    *   git commit -m ''
+    *   git pull
+        *   correccion de conflictos en caso de error
+            *   git add
+            *   git commit -m ''
+    *   git push
