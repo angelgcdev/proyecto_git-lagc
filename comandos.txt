@@ -3,5 +3,9 @@ Comandos git
 Eliminar repositorio remoto:
 
   git remote remove <nombre_repositorio_remoto>
+
 Crear rama e ir a la rama
   git checkout -b rama1
+
+Para ver ramas locales  y remotas
+  git branch --all
